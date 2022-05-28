@@ -1,0 +1,110 @@
+body {
+    font-family: "Roboto";
+    text-align: left;
+}
+.brand {
+    color: darkslategray;
+}
+
+#title .container-fluid {
+    padding-bottom: 15%;
+    background-size: cover;
+    background-image: url(https://media.cntraveller.com/photos/611bf1616ab96bf3ecf1f7ac/master/w_800%2Cc_limit/gettyimages-1027421358.jpg);
+}
+.main-heading {
+    font-size: 6rem;
+    line-height: 1.2;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    font-weight: bold;
+    padding-left: 5%;
+}
+.navbar {
+    padding: 1cm 10cm;
+    font-size: 0.9rem;
+
+}
+.nav-link {
+    margin: auto 3%;
+}
+.button {
+    margin-left: 3cm;
+    background-color: white;
+    width: 11cm;
+}
+.transition {
+    height: 2cm;
+    width: auto;
+    background-color: #27496D;
+}
+/* About Section */
+#About {
+    padding: 5% 0 0 2%;
+    background-color: #D3DEDC;
+    font-family: 'Oswald', sans-serif;
+    margin: auto 15%;
+    text-align: left;
+    line-height: 2;
+
+}
+.about-head {
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+.photo {
+
+    width: 100%;
+    height: 80%;
+
+}
+hr {
+    border: 2px solid black;
+    width: 3cm;
+
+}
+
+/* Advert Section */
+ #Advert {
+    padding: 5% 10%;
+    background-color: #D3DEDC;
+    margin: auto 15%;
+    text-align: center;
+
+ }
+ .advert-heading {
+    font-family: 'Oswald', sans-serif;
+    text-align: left;
+    font-weight: bold;
+ }
+ .advert-logo {
+     width: 40%;
+     background-size: cover;
+ }
+
+ /* cta */
+
+ .container {
+     background-color: #92A9BD;
+     margin: auto 5%;
+     padding: 5%;
+     font-family: 'Ubuntu', sans-serif;
+     text-align: center;
+
+ }
+ .cta-heading {
+     color: white;
+     font-size: 5rem;
+     font-weight: bolder;
+     font-family: 'Montserrat', sans-serif;
+ }
+ .slogan {
+     font-size: 2.5rem;
+     text-align: left;
+     font-weight: bold;
+ }
+  /* <!-- Footer --> te*/
+  #footer {
+    padding: 2%;
+    text-align: center;
+
+}
